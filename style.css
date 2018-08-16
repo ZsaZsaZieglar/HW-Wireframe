@@ -25,10 +25,12 @@ nav {
 
 section {
     background-color: #ebebeb;
-    width: 60%;
+    width: 56%;
     float: left;
     padding: 15px;
     margin-bottom: 15px;
+    
+    height: 275px;
     clear: both;
     overflow: auto;
 }
@@ -37,8 +39,9 @@ aside {
     background-color:#ebebeb;
     border: 2px solid red;
     width: 40%; 
-    height: 60%;
-    float: left;      
+    height: 275px;
+    float: left;
+    margin-left: 4%;                 
 }
 
 article {
@@ -79,7 +82,8 @@ footer {
     clear: both;
     background-color: #ebebeb; 
     margin-top: 15px; 
-    border:3px solid green;     
+    border:3px solid green; 
+    height: 90px;    
 }
 
 
